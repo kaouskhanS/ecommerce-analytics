@@ -250,16 +250,17 @@ This project is developed for educational and portfolio purposes.
 
 ## 👨‍💻 Author
 
-**Kaous Khan S**
+**Kaous Khan S and Sujitha A**
 
 **Bachelor of Technology(ArtificialIntelligenceandDataScience)**
 
 **Mailam Engineering College**
 
-📧 Email: aziskhan7023@gmail.com
+📧 Email: aziskhan7023@gmail.com and suji2003kk@gmail.com
 
-🔗 GitHub: https://github.com/your-github-kaouskhanS
-🔗 LinkedIn profile : https://www.linkedin.com/in/kaouskhans 
+
+🔗 GitHub: https://github.com/your-github-kaouskhanS,https://github.com/your-github-sujitha3arumugam
+🔗 LinkedIn profile : https://www.linkedin.com/in/kaouskhans, https://www.linkedin.com/in/sujitha-arumugam-
 
 ## Run Instructions
 
